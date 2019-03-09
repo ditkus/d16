@@ -10,7 +10,7 @@ This is a web crawler for web scraping. Using this crawler you can scrape follow
   
 ### Installation
 
-Spider1 requires [Scrapy Framework](https://scrapy.org/) to run. If you don't have it, first I recommend to download and install [Anaconda](https://www.anaconda.com/distribution/). In Abaconda you need to create a new environment. Then in your new environment you need to search for Scrapy. Click on it, select it and install it.
+Spider1 requires [Scrapy Framework](https://scrapy.org/) to run. If you don't have it, first I recommend to download and install [Anaconda](https://www.anaconda.com/distribution/). In Anaconda you need to create a new environment. Then in your new environment you need to search for Scrapy. Click on it, select it and install it.
 
 
 ### Usage
