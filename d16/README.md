@@ -40,7 +40,6 @@ $ scrapy crawl Spider1
 
 **Enjoy a web crawling!**
 
-
 License
 ----
 
