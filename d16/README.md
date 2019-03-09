@@ -34,12 +34,11 @@ and drag and drop a folder with a **Spider1**
 
 To run a file you need to enter:
 ```sh
-$ scrapy crawl Spider1
+$ scrapy crawl spider1
 ```
-..and it's going to crawl. All crawled data you will find in d16/tmp file location.
+..and it's going to crawl. All crawled data you will find in d16/spiders/tmp file location.
 
 **Enjoy a web scraping!**
-
 
 License
 ----
