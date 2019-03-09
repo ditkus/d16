@@ -18,11 +18,11 @@ Spider1 requires [Scrapy Framework](https://scrapy.org/) to run. If you don't ha
 Spider1 and all others web scrapers in Scrapy environment need a specific commands to run.
 
 First you need to activate your environment in your command line.
-For **Windows** enter:
+For **Windows** you need to enter:
 ```sh
-$ activate [name of your environment]
+activate [name of your environment]
 ```
-For **MAC** and **Linux**  enter:
+For **MAC** and **Linux** you need to enter:
 ```sh
 $ source activate [name of your environment]
 ```
