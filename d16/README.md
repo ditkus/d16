@@ -38,7 +38,7 @@ $ scrapy crawl Spider1
 ```
 ..and it's going to crawl. All crawled data you will find in d16/tmp file location.
 
-**Enjoy a web crawling!**
+**Enjoy a web scraping!**
 
 License
 ----
