@@ -4,7 +4,7 @@ This is a web crawler for web scraping. Using this crawler you can scrape follow
 
   - Title of the article
   - Author of the article
-  - Publishig date
+  - Publishing date
   - Web refecence of the article
   
   
