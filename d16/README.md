@@ -1,10 +1,10 @@
 # Spider1
 
-This is a web crawler for web scraping. Using this crawler you can scrape following data:
+This is a web crawler for web scraping. Using this crawler you can scrape the following data:
 
   - Title of the article
   - Author of the article
-  - Publishing date
+  - Date of the publication
   - Web refecence of the article
   
   
@@ -39,7 +39,6 @@ $ scrapy crawl spider1
 ..and it's going to crawl. All crawled data you will find in d16/spiders/tmp file location.
 
 **Enjoy a web scraping!**
-
 
 License
 ----
